@@ -5,7 +5,7 @@
 Aquí se debe subir **todo el material y avances técnicos** que el área de Desarrollo genere durante el reto OmegaLab 2025.
 
 ---
-
+**desarrollador**: Santiago Acevedo Urrego
 # Objetivo:
 Desarrollar un sistema predictivo/autocorrectivo capaz de identificar estudiantes universitarios en riesgo de sufrir estrés académico, utilizando datos de plataformas educativas y variables psicológicas y contextuales. Una vez identificado el riesgo, se generarán estrategias correctivas para prevenir el avance del estrés. Nuestro sistema se diferencia al ayudar a los estudiantes a crear planes de estudio personalizados y actuar como un monitor personal, utilizando el material de las clases para generar explicaciones y contenido gráfico que facilite el logro de sus objetivos académicos.
 
