@@ -132,7 +132,7 @@ Utilizados para la generación de planes de estudio, ejemplos y explicaciones pe
 ### Diagramas:
 - **Flujo:** ![Texto alternativo](./flujo.drawio.png)  
 - **Contexto:** ![Texto alternativo](./contexto.drawio.png)  
-- **Contenedores:** ![Texto alternativo](./contexto.drawio.png)
+- **Contenedores:** ![Texto alternativo](./Diagrama%20sin%20título.jpg)
 
 > ℹ️ **Nota:** Mantén el contenido organizado, claro y actualizado para facilitar su revisión.
 
